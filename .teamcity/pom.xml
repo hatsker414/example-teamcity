@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <project>
   <modelVersion>4.0.0</modelVersion>
-  <name>JavaProject Config DSL Script</name>
-  <groupId>JavaProject</groupId>
-  <artifactId>JavaProject_dsl</artifactId>
+  <name>Java Config DSL Script</name>
+  <groupId>Java</groupId>
+  <artifactId>Java_dsl</artifactId>
   <version>1.0-SNAPSHOT</version>
 
   <parent>
